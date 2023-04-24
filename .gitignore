@@ -1,0 +1,5 @@
+*.csv
+*.h5
+*.docx
+processed_data/*
+!processed_data/README.md
