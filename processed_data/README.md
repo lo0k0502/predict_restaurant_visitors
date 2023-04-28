@@ -1,1 +1,0 @@
-# This folder is for containing files that are generated during raw data processing
